@@ -4,7 +4,7 @@ This repository includes all applications of volunteers result for Sprint1.
 
 ## Contribution
 
-1. For this repo into your personal github.
+1. Fork this repo into your personal github.
 2. Make directory with your githubname or nickname which not conflict with others.
 3. Make a PR (Pull-Request) to the org repo.
 4. Reviewers will check all PRs and merge your applications into the org repo.
